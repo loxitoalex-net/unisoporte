@@ -16,8 +16,7 @@ UniSoporte_proyecto/
 │   └── tickets.json
 ├── .streamlit/
 │   └── secrets.toml.example
-└── docs/
-    └── Documentacion_UniSoporte_estilo_Colab.ipynb
+
 ```
 
 ## Instalación local
